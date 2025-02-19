@@ -7,6 +7,10 @@ require('dotenv').config();
 const express = require('express');
 const { Client, GatewayIntentBits } = require('discord.js');
 
+const cors = require('cors');
+
+app.use(cors()); // This will enable CORS for all routes
+
 // Initialize the Discord client
 const discordClient = new Client({
   intents: [
