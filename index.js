@@ -9,7 +9,7 @@ const { Client, GatewayIntentBits } = require('discord.js');
 
 const cors = require('cors');
 
-app.use(cors()); // This will enable CORS for all routes
+
 
 // Initialize the Discord client
 const discordClient = new Client({
@@ -31,6 +31,8 @@ discordClient.once('ready', () => {
 // Set up Express
 const app = express();
 const PORT = process.env.PORT || 3001;
+
+app.use(cors()); // This will enable CORS for all routes
 
 // Middlewar e to parse JSON bodies
 app.use(express.json());
