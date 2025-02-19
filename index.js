@@ -28,7 +28,7 @@ discordClient.once('ready', () => {
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-// Middleware to parse JSON bodies
+// Middlewar e to parse JSON bodies
 app.use(express.json());
 
 // Define your API endpoint
