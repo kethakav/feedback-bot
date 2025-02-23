@@ -169,6 +169,11 @@ We welcome contributions from the community! You can contribute by submitting pu
 
 By contributing, you help make this project better for everyone. Happy coding!
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## ⭐ Support the Project
 
 If you find this project useful, consider giving it a star on GitHub! ⭐ It helps others discover it and keeps me motivated to improve it. 
