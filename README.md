@@ -168,3 +168,7 @@ We welcome contributions from the community! You can contribute by submitting pu
    Open a pull request to merge your changes. Please ensure your code follows the contribution guidelines.
 
 By contributing, you help make this project better for everyone. Happy coding!
+
+## ⭐ Support the Project
+
+If you find this project useful, consider giving it a star on GitHub! ⭐ It helps others discover it and keeps me motivated to improve it.
