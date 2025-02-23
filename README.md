@@ -2,6 +2,10 @@
 
 This project is a simple feedback bot that sends user feedback from a web app or website to a designated Discord channel. It uses [Express](https://expressjs.com/) for the API and [discord.js](https://discord.js.org/#/) to interact with Discord.
 
+## Screenshots
+![Discord Bot](/media/images/Discord_eCo2YG0CIC.png)
+![Front End](/media/images/zen_TrSZNMxWji.png)
+
 ## Features
 
 - **Receive Feedback:** Accepts feedback via a REST API.
