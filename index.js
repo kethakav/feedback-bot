@@ -34,7 +34,7 @@ const PORT = process.env.PORT || 3001;
 
 app.use(cors()); // This will enable CORS for all routes
 
-// Middlewar e to parse JSON bodies
+// Middleware to parse JSON bodies
 app.use(express.json());
 
 // Define your API endpoint
